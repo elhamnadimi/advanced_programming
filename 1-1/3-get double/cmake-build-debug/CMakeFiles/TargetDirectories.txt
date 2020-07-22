@@ -1,0 +1,3 @@
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 01/3-get double/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 01/3-get double/cmake-build-debug/CMakeFiles/untitled47.dir
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 01/3-get double/cmake-build-debug/CMakeFiles/edit_cache.dir
