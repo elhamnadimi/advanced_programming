@@ -1,0 +1,3 @@
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 03/2-Mean and Median/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 03/2-Mean and Median/cmake-build-debug/CMakeFiles/untitled36.dir
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 03/2-Mean and Median/cmake-build-debug/CMakeFiles/edit_cache.dir

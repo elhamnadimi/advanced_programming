@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 03/3-Avoid repeated words/main.cpp
+iostream
+-
+string
+-
+vector
+-
+

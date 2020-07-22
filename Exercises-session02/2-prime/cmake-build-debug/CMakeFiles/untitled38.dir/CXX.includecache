@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elham/Desktop/datascience/C++_Exercises/Exercises - session 02/2-prime/main.cpp
+iostream
+-
+iomanip
+-
+
